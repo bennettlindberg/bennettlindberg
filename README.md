@@ -4,11 +4,11 @@ I'm Bennett Lindberg, a Computer Science student at Northwestern University's Mc
 
 ## 🗂️ Recent Projects
 
-- **Swimeeter** - A tool for managing swim meets and generating heat sheets on the fly.
+- **[Swimeeter](https://github.com/bennettlindberg/Swimeeter)** - A tool for managing swim meets and generating heat sheets on the fly.
   - _Date:_ Summer 2023
   - _Technologies:_ Typescript, React, Tailwind, Python, Django, PostgreSQL, and a handful more.
 
-- **2DGrapher** - An application for quickly generating graphs of mathematical functions in the two-dimensional coordinate plane.
+- **[2DGrapher](https://github.com/bennettlindberg/2DGrapher)** - An application for quickly generating graphs of mathematical functions in the two-dimensional coordinate plane.
   - _Date:_ Summer 2022
   - _Technologies:_ C++, SFML
 
