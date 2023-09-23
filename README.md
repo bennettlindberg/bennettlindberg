@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I'm Bennett Lindberg, a Computer Science student at Northwestern University's McCormick School of Engineering. Currently, I am interning with [Code Platoon](https://www.codeplatoon.org/) as a full-stack software engineering teaching assistant helping 38 military veterans and spouses learn web development.
+I'm Bennett Lindberg, a Computer Science student at Northwestern University's McCormick School of Engineering. This past summer, I interned with [Code Platoon](https://www.codeplatoon.org/) as a full-stack software engineering teaching assistant helping 38 military veterans and spouses learn web development.
 
 ## 🗂️ Recent Projects
 
