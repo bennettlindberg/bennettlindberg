@@ -2,6 +2,8 @@
 
 I'm Bennett Lindberg, a Computer Science student at Northwestern University's McCormick School of Engineering. This past summer, I interned with [Code Platoon](https://www.codeplatoon.org/) as a full-stack software engineering teaching assistant helping 38 military veterans and spouses learn web development.
 
+***Website: [bennettlindberg.com](https://bennettlindberg.com)***
+
 ## 🗂️ Recent Projects
 
 - **[Swimeeter](https://github.com/bennettlindberg/Swimeeter)** - A tool for managing swim meets and generating heat sheets on the fly.
