@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I'm Bennett Lindberg, a Computer Science student at Northwestern University's McCormick School of Engineering. I am skilled at full-stack web development and am interested in Programming Languages research. You can find out more about me on my website!
+I'm Bennett Lindberg, a Computer Science major at Northwestern University's McCormick School of Engineering. I am skilled at full-stack software development and am also interested in Programming Languages research. You can find out more about me on my website!
 
 ***Website: [bennettlindberg.com](https://bennettlindberg.com)***
 
