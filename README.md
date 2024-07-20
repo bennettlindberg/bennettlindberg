@@ -6,6 +6,14 @@ I'm Bennett Lindberg, a Computer Science major at Northwestern University's McCo
 
 ## 🗂️ Recent Projects
 
+- **[Clighter](https://github.com/bennettlindberg/Clighter)** - A mechanized big-step operational semantics for a subset of the C programming language.
+  - _Date:_ Spring 2024
+  - _Technologies:_ C, Racket, PLT Redex
+ 
+- **[RacketEsterelWatch](https://github.com/bennettlindberg/RacketEsterelWatch)** - A transpilation of Gérard Berry's Esterel wristwatch implementation from 1989 into Racket-Esterel.
+  - _Date:_ Spring 2024
+  - _Technologies:_ Esterel, Racket
+
 - **[Swimeeter](https://github.com/bennettlindberg/Swimeeter)** - A tool for managing swim meets and generating heat sheets on the fly.
   - _Date:_ Summer 2023
   - _Technologies:_ Typescript, React, Tailwind, Python, Django, PostgreSQL, and a handful more.
