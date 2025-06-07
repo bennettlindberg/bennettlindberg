@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I'm Bennett Lindberg, a Computer Science major at Northwestern University's McCormick School of Engineering. I am skilled at full-stack software development and am also interested in Programming Languages research. You can find out more about me on my website!
+I'm Bennett Lindberg, a software engineer working at Motorola Solutions. I am skilled at full-stack software development and am also interested in Programming Languages research. In 2025, I received my B.S. in Computer Science from Northwestern University's McCormick School of Engineering. You can find out more about me on my website.
 
 ***Website: [bennettlindberg.com](https://bennettlindberg.com)***
 
@@ -24,13 +24,17 @@ I'm Bennett Lindberg, a Computer Science major at Northwestern University's McCo
  
 ## 🛠️ Work Experience
 
+- **Software Engineer** - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html)
+  - _Date:_ July 2025 - Present
+  - Work as a software engineer in the Secure Products Group at Motorola Solutions
+
 - **Software Engineering Intern** - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html)
   - _Date:_ June - August 2024
-  - Worked as a software engineering intern with the Secure Products Group at Motorola Solutions
+  - Worked as a software engineering intern in the Secure Products Group at Motorola Solutions
  
 - **Teaching Assistant** - [Northwestern Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/)
-  - _Date:_ January - June 2024
-  - Assisted with the teaching of COMP_SCI 214: Data Structures and Algorithms (Winter 2024) and COMP_SCI 396: Foundations of Security (Spring 2024)
+  - _Date:_ January 2024 - June 2025
+  - Assisted with the teaching of COMP_SCI 214: Data Structures and Algorithms (Winter 2024), COMP_SCI 396: Foundations of Security (Spring 2024), and COMP_SCI 321: Programming Languages (Fall 2024, Winter 2025, Spring 2025)
 
 - **Teaching Assistant** - [Code Platoon](https://www.codeplatoon.org/)
   - _Date:_ June - September 2023
@@ -39,10 +43,10 @@ I'm Bennett Lindberg, a Computer Science major at Northwestern University's McCo
 ## 💻 Proficient Technologies
 
 - **Front-End** <a href="https://skillicons.dev"><img height="25" src="https://skillicons.dev/icons?i=react,tailwind,ts,js,html,css&theme=light" /></a>
-  - React, React Router, Tailwind CSS, TypeScript, JavaScript, HTML, CSS
+  - React, Tailwind CSS, TypeScript, JavaScript, HTML, CSS
 
-- **Back-End** <a href="https://skillicons.dev"><img height="25" src="https://skillicons.dev/icons?i=django,postgres&theme=light" /></a>
-  - Django, Django REST Framework, PostgreSQL, SQL
+- **Back-End** <a href="https://skillicons.dev"><img height="25" src="https://skillicons.dev/icons?i=django,spring,postgres,sqlite&theme=light" /></a>
+  - Django, Spring Boot, PostgreSQL, SQLite, SQL
 
-- **General** <a href="https://skillicons.dev"><img height="25" src="https://skillicons.dev/icons?i=python,c,cpp,java,matlab,latex,git,postman,vite&theme=light" /></a>
-  - Python, C, C++, Java, Racket, MATLAB, LaTeX, Git, Postman, Vite, Axios
+- **General** <a href="https://skillicons.dev"><img height="25" src="https://skillicons.dev/icons?i=python,c,cpp,java,matlab,next,vite,docker&theme=light" /></a>
+  - Python, C, C++, Java, Racket, MATLAB, Next, Vite, Docker
