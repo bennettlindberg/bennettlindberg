@@ -6,6 +6,22 @@ I'm Bennett Lindberg, a software engineer working at Motorola Solutions. I am sk
 
 ## 🗂️ Recent Projects
 
+- **ContractTracer** *(currently private)* - Racket program debug tracing driven by software contract imitation.
+  - _Date:_ Spring 2025
+  - _Technologies:_ Racket, Software Contracts, Impersonation, Code Tracing
+
+- **[TwitterClone](https://github.com/bennettlindberg/TwitterClone)** - A full-stack, almost entirely AI-drafted social media platform that emulates the core functionality of Twitter.
+  - _Date:_ Spring 2025
+  - _Technologies:_ Generative AI, Next, React, TypeScript, Tailwind, SQLite, JWTs, and a handful more.
+
+- **[SymbolicTypeInference](https://github.com/bennettlindberg/SymbolicTypeInference)** - An automated type inference engine for Racket programs powered by symbolic evaluation and SMT solvers.
+  - _Date:_ Winter 2025
+  - _Technologies:_ Racket, Symbolic Evaluation, SMT Solvers, Type Systems
+
+- **[GraphApp](https://github.com/bennettlindberg/GraphApp)** - Cloud-native and scalable graph theory tool suite built on AWS.
+  - _Date:_ Winter 2025
+  - _Technologies:_ AWS (S3, RDS, Lambda, API Gateway, IAM), Python, Matplotlib, NetworkX
+
 - **[Clighter](https://github.com/bennettlindberg/Clighter)** - A mechanized big-step operational semantics for a subset of the C programming language.
   - _Date:_ Spring 2024
   - _Technologies:_ C, Racket, PLT Redex
@@ -31,6 +47,10 @@ I'm Bennett Lindberg, a software engineer working at Motorola Solutions. I am sk
 - **Software Engineering Intern** - [Motorola Solutions](https://www.motorolasolutions.com/en_us.html)
   - _Date:_ June - August 2024
   - Worked as a software engineering intern in the Secure Products Group at Motorola Solutions
+ 
+- **Undergraduate Researcher** - [Northwestern Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/)
+  - _Date:_ May 2024 - June 2025
+  - Lead Programming Languages theory (PLT) research focused on software type and contract systems under the supervision of Professor Christos Dimoulas
  
 - **Teaching Assistant** - [Northwestern Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/)
   - _Date:_ January 2024 - June 2025
